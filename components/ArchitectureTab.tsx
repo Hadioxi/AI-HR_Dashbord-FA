@@ -359,7 +359,7 @@ const ArchitectureTab: React.FC = () => {
       </section>
       
       <footer className="text-center text-stone-400 text-sm py-8 border-t border-stone-200">
-        <p>طراحی شده برای نمونه‌کار تحلیل داده سازمانی</p>
+        <p>طراحی شده توسط هادی موسوی</p>
       </footer>
     </div>
   );
