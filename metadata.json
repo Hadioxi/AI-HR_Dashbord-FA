@@ -1,0 +1,5 @@
+{
+  "name": "HR Churn Predictor",
+  "description": "Advanced HR Analytics Dashboard for predicting employee churn using organizational psychology metrics (Big Three, Justice, LMX).",
+  "requestFramePermissions": []
+}
