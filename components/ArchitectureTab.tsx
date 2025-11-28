@@ -122,7 +122,7 @@ const ArchitectureTab: React.FC = () => {
       <header className="text-center space-y-4">
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-stone-800">داشبورد هوش تجاری و روانشناسی سازمانی</h1>
         <p className="text-sm md:text-lg text-stone-600 max-w-3xl mx-auto">
-          یک مطالعه موردی تعاملی برای طراحی سیستم‌های تحلیل داده HR در سازمان‌های ایرانی.
+         طراحی سیستم‌های تحلیل داده HR در سازمان‌های ایرانی.
           بررسی معماری Metabase بر بستر Streamlit.
         </p>
       </header>
