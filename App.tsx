@@ -37,7 +37,7 @@ const App: React.FC = () => {
         user={{ 
           name: 'هادی موسوی', 
           role: 'تحلیل‌گر و روانشناس', 
-          avatar: 'https://randomuser.me/api/portraits/men/85.jpg' 
+          avatar: 'https://i.postimg.cc/hj30kQ4x/Gemini-Generated-Image-fkmqalfkmqalfkmq.png' 
         }} 
       />
       
