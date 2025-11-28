@@ -115,7 +115,7 @@ const RiskPreventionTab: React.FC<Props> = ({ employees }) => {
                              <Bar dataKey="risk" radius={[4, 4, 0, 0]} barSize={40} label={{ position: 'top', fill: '#64748b', fontSize: 12 }} />
                              {/* Reversed XAxis to simulate RTL */}
                              <XAxis dataKey="name" tick={{fontSize: 10}} interval={0} axisLine={false} tickLine={false} reversed={true} />
-                        </Bar>
+                        </BarChart>
                     </ResponsiveContainer>
                 </div>
             </div>
